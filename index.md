@@ -9,4 +9,8 @@
 printf("No hay nada mas dificil que vivir sin ti")
 ```
 
+- [ ] Picar los cocos
+- [ ] oe
+- [ ] hola
+
 Todos los derechos reservados
